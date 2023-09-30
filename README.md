@@ -1,2 +1,1 @@
-# parsing
-parsing several news sites
+Непосредственно парсинг сайтов находится в файлах yahoo.py и prnewswire.py
